@@ -1,0 +1,28 @@
+﻿Two Sigma is a different kind of investment manager. Since 2001, we have used data science and technology to derive insights that forecast the future and discover value in markets worldwide. Our team of scientists, technologists and academics looks beyond traditional finance to understand the bigger picture and develop creative solutions to some of the world’s most difficult economic problems. Our work spans markets and industries, from insurance and securities to private investments and new ventures. 
+
+We are seeking a talented data specialist to join our highly motivated and innovative Data Engineering team, your efforts will be critical to the success of Two Sigma’s global trading businesses.
+
+You will take on the following responsibilities:
+• Curate massive amounts of data for thousands of different tradable instruments, including stocks, bonds, futures, contracts, commodities, and more;
+• Perform manual steps and develop programs and processes to ensure the completeness and integrity of financial reference datasets;
+• Collaborate with team members to design and develop reliable data pipelines that produce high quality datasets;
+• Help drive continuous improvements to data quality procedures and a consistent approach to how data quality is measured, monitored and reported;
+• Create systematic and automated processes and tools that allow the team to scale and rapidly onboard new datasets;
+• Be part of a team to support the data used by production trading algorithms.
+You should possess the following qualifications:
+• 3+ years professional experience in an environment that prioritized data quality
+• A bachelor’s degree with a strong academic record, which includes university coursework in programming and computing systems
+• An understanding of the software development process and exposure to hands-on coding in a professional environment
+• While financial industry experience is a plus, we are open-minded in our search for critical thinkers who are passionate about technology and data.
+• Experience with Python (and/or Java)
+• Experience with SQL and working with a relational database system, such as Microsoft SQL Server.
+• Proven problem-solving and analytical abilities including pattern detection, root cause analysis, and issue resolution
+• An understanding of how to design and develop effective data quality tests and measures
+• Relevant experience in data operations, with proven process improvement skills
+You will enjoy the following benefits:
+• Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, competitive 401k match, employer-paid life & disability insurance
+• Perks: Onsite gyms with laundry service, wellness activities, casual dress, snacks, game rooms
+• Learning: Tuition reimbursement, conference and training sponsorship
+• Time Off: Generous vacation and unlimited sick days, competitive paid caregiver leaves
+We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.
+

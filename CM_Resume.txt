@@ -1,0 +1,86 @@
+﻿CRAIG MOSHER, M.Sc.
+Houston, TX     832-341-7905     crmshr@gmail.com     linkedin.com/in/craig-mosher
+
+
+/  BI-LINGUAL SENIOR DATA SCIENTIST  
+
+Resourceful, analytical thinking, first-rate professional with academic and career portfolios showcasing unconventional and offshore specific projects, data analytics and manipulation of large data, most recently in the Oil Industry. Prior experience with sub-salt, deep water basins in the Gulf of Mexico and resource play assets from exploration to development. Extensive expertise in full-spectrum seismic, hands-on coding, big data management and analysis, including design of algorithms, 3D processing workflows, operations and geosteering, interpretation and data quantitative analysis. Leverages critical deduction, pattern detection, technical and interpersonal skills to advance initiatives and deliver innovative results in roles reflecting: 
+
+
+Troubleshooting T Project Management P Strategic Planning   Industry Acumen I Scientific Background  
+Cross-Functional Communications C Collaboration & Liaison   Reports & Documentation R Training & Coaching
+Metrics & KPIs M Petrel   Hampson-Russell   Spotfire S MATLAB   Geographix | Python | SQL | Power BI
+SciKit Learn | Pandas | NumPy | Keras | Tensorflow
+
+* Fluent English & French, Functional Spanish
+
+
+
+CAREER TRAJECTORY & HIGHLIGHTS
+
+MARATHON OIL, Houston, TX                                                                                                                              2019 – 2020                                                                                                                      
+ADVANCED GEOPHYSICIST, Oklahoma Resource Basin					                     
+• Served team in capacity of Advanced Geophysicist in Marathon’s ORB with operations in multiple hydrocarbon benches within the STACK & SCOOP play fairways
+• Responsibilities include optimized geosteering (remote & on-site) and well placement in thin reservoirs which led to pace-setting drill times (>40%) in the SCOOP Woodford formation
+• Lead the Anomalous Seismicity Task Force, responsible for preplanning and analyzing large amounts of historical data, predictive model creation, monitoring and mitigating earthquake risk using real-time data to ensure operating and completion efforts continued efficiently.  Communicated risks of seismicity to multiple disciplines and ensured that the asset operation groups were following procedures. 
+• Interpreted 2D and 3D seismic data to provide structural and stratigraphic inputs for operations across all seismic datasets, which included areas with extreme structural complexity.  Support included fault analysis and communication of uncertainty.
+• Utilized seismic integration (seismic processing, imaging, inversion, geometric attributes and seismic data analysis) to drive business decisions and goals.  This includes linear, non-linear and stoichastic machine learning processes integrating rock physics, geology, petrophysics properties with seismic data to predict well performance and increased ROP of the drilling bit. 
+• Lead projects creating full basin geomodels and PSDM seismic reprocessing. 
+• Leveraged fibre-optic data and integrated seismic and completion parameters to analyze and maximize well performance per rock type and study inter-well communication.
+
+REPSOL, Houston, TX                                                                                                                                              2017 – 2019                                                                                                                      
+SENIOR GEOPHYSICIST, Gulf of Mexico					                     
+• Served team in capacity of Senior Geophysicist in Repsol’s US Gulf of Mexico offshore, deep-water and sub-salt Shenzi and Buckskin Assets
+• Drilled two wells very successfully and earned 1st and 3rd-place rankings in drill time for the formation and at 60% below cost of the original development plan, resulting in significant reduction to break-even price for produced oil by 30%
+• Implemented geophysical techniques extensively, in daily asset practices including interpretation of PSTM and PSDM, data, machine learning elastic wave inversion and modeling, attribute creation and cross-plotting, geostatistical analysis, and geo-model creation
+• Works on Shenzi Asset, with tasks including reserve calculations, developing a mature asset and working with other stakeholders, and subsequently (currently), feasibility analysis, design and decision analysis value of an OBN seismic survey
+• Advances Buckskin Asset, with tasks including seismic interpretation to support and influence well locations, assess geomechanics to identify shallow hazards and design well paths, leading to a (current) reprocessing effort of PSDM seismic using full-waveform inversion to improve velocity model and structural imaging   
+
+REPSOL OIL & GAS, CANADA, Inc. / TALISMAN ENERGY, Inc., Calgary, AB                                                 2012 – 2017                                                                                                                      
+SENIOR GEOPHYSICIST, Duvernay
+• Interpreted and evaluated seismic over 347,000 acres of Duvernay land in the infancy of the resource
+play; recently (May 2017) captured and additional 27,000 acres, which led to 176 Hz well locations and a total recoverable resource of 86 Mboe
+• Applied post-stack seismic inversion and correlated results to key log-derived reservoir parameters (PhiH,
+Net/Gross, %TOC) to mitigate hazards and high-grade areas to acquire and develop
+• Applied pre-stack and stoichastic seismic inversion to further high-grade and assess key areas and produced seismic-derived attribute maps for Zp, Zs, Density, Vp/Vs ratio, LMR, Young’s Modulus and Poisson’s Ratio which were validated with log data and used to select drilling locations and completion design for 19 horizontal wells, accompanied by rock physics templates to further correlate attribute maps with mineralogy
+• Evaluated natural fractures through computed VVAZ and brittleness attribute volumes and subsequently validated results by catalogued fracture markers in logs and drilling reports    
+• Acquired and evaluated multiple micro-seismic programs, borehole and surface, utilizing data with seismic attributes to study the effectiveness of the completion, with micro-seismic fracture length, height, event density, magnitude and focal mechanism correlated to rock physics attributes and pumping parameters to be finally validated using production logs
+• Led geophysical portion of a Duvernay joint venture process that included presentation of all geophysical data and findings to a wide variety of global organizations and diverse backgrounds
+
+Additional Roles Include:
+o G&G Summer Student Recruiter
+o U of Calgary CREWES Consortia Trustee
+o Micro-seismic Industry Consortia Trustee
+o CSEG Foundation Scholarships Chair
+
+TALISMAN ENERGY, Calgary, AB                                                                                                                          2009 – 2012                                                                                                                      
+GEOPHYSICAL SPECIALIST
+• Advanced program initiatives as a geophysicist with Global Subsurface Technology group helped establish and implement best practices and standardization of geophysical applications
+• Used geophysical methods such as seismic attributes, inversion, time-to-depth conversion, micro-seismic, rock properties (LMR), spectral decomposition, and waveform classification to evaluate a wide variety of global resource plays
+• Travelled extensively throughout Duvernay, Utica, Montney, Eagle Ford, Marcellus and Chainman Shales
+
+Geophysical Interests:
+o Inversion (Stoichastic & Full Waveform) for velocity model building, higher image resolution and
+discretization of the subsurface.
+o Multi-Component Seismic for information on fracture and fluid migration
+o 4D Seismic to monitor reservoir depletion and completion efficiencies
+o Use of fiber optics in geoscience.
+
+
+
+PUBLICATIONS
+
+Mosher, Craig R.W. and Farquharson, C.G. (2013)
+Minimum-structure borehole gravity inversion for mineral exploration: a synthetic modeling study, Geophysics, 78.2: 1-15.
+
+Farquharson, C.G. and Craig R.W. Mosher (2009)
+Three-dimensional modeling of gravity data using finite differences
+ Journal of Applied Geophysics, in press (DOI: 10.1016/j.jappgeo.2009.03.007)
+
+
+
+EDUCATION
+
+Master of Science (M.Sc.), Geophysics - Memorial University of Newfoundland, St. John’s, NL 
+Bachelor of Science (B.Sc.), Honours, Physics, Mathematics - Mount Allison University, Sackville, NB 
+ 
